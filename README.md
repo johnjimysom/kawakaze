@@ -1,9 +1,9 @@
 ALL BECAUSE THIS VIDEO: https://www.youtube.com/watch?v=PIWSyUHD_nk
 
-                    You can find it here from my website: http://1.kawakaze-swag.appspot.com/
+You can find it here from my website: http://1.kawakaze-swag.appspot.com/
 
 
- Copyright (C) 2016 Johnjimy Som <johnjimysom@yahoo.com>
+                    Copyright (C) 2016 Johnjimy Som <johnjimysom@yahoo.com>
                     Shinesunny Som <som.sunny@yahoo.com>
 
 This work is free. You can redistribute it and/or modify it under the
