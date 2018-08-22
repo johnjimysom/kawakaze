@@ -1,4 +1,7 @@
-ALL BECAUSE THIS VIDEO: https://www.youtube.com/watch?v=PIWSyUHD_nk
+INSPIRED BY THIS VIDEO: https://www.youtube.com/watch?v=PIWSyUHD_nk 
+
+I wanted to incorporate swag, but MJ is already overplayed so I dedicated this website to one of my favorite ships in Kantai Collection: 江風
+http://kancolle.wikia.com/wiki/Kawakaze
 
 You can find it here from my website: http://1.kawakaze-swag.appspot.com/
 
