@@ -1,4 +1,6 @@
 ALL BECAUSE THIS VIDEO: https://www.youtube.com/watch?v=PIWSyUHD_nk
+You can find it here at my website: http://1.kawakaze-swag.appspot.com/
+
 
  Copyright (C) 2016 Johnjimy Som <johnjimysom@yahoo.com>
                     Shinesunny Som <som.sunny@yahoo.com>
@@ -11,3 +13,5 @@ as published by Sam Hocevar. See http://www.wtfpl.net/ for more details.
    TERMS AND CONDITIONS FOR COPYING, DISTRIBUTION AND MODIFICATION
 
   0. Do whatever the f%&( you want.
+  1. Spead the chaos
+  2. Please credit others!
