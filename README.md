@@ -15,4 +15,4 @@ as published by Sam Hocevar. See http://www.wtfpl.net/ for more details.
 
   0. Do whatever the f%&( you want.
   1. Spead the chaos
-  2. Please credit others!
+  2. Please credit
