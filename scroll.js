@@ -1,3 +1,5 @@
+//When clicked on a div, the pages scrolls towards it
+
 $("button").click(function() {
   $("html,body").animate(
     {
