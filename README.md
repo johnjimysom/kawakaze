@@ -13,14 +13,8 @@
         <img src="https://img.shields.io/badge/html-jQuery, javascript, css-yellowgreen.svg"
             alt="dependencies"></a>
     <a href="#version">
-        <img src="https://img.shields.io/badge/version-1.6-lightblue.svg"
+        <img src="https://img.shields.io/badge/version-1.1-lightblue.svg"
             alt="version"></a>
-    <a href="https://discord.gg/pzAfBJ">
-        <img src="https://img.shields.io/discord/494990656603815950.svg?logo=discord"
-            alt="chat on Discord"></a>
-    <a href="#members">
-        <img src="https://img.shields.io/badge/members-3-lightgrey.svg"
-            alt="members recorded"></a>
 </p>
 
 INSPIRED BY THIS VIDEO: https://www.youtube.com/watch?v=PIWSyUHD_nk 
