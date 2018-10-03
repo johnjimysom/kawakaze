@@ -7,7 +7,7 @@
         <img src="https://img.shields.io/badge/status-working-green.svg"
             alt="status"></a>
     <a href="#development">
-        <img src="https://img.shields.io/badge/development-on hold-FFA500.svg"
+        <img src="https://img.shields.io/badge/development-completed-blue.svg"
             alt="development"></a>
     <a href="#dependencies">
         <img src="https://img.shields.io/badge/html-jQuery, javascript, css-yellowgreen.svg"
